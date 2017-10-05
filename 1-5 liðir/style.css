@@ -1,0 +1,12 @@
+#EYO
+{
+	color: blue;
+}
+.active
+{
+	color: red;
+}
+.active2
+{
+	content: 'whatever it is you want to add'; 
+}
